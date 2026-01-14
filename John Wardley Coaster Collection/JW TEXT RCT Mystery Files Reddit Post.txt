@@ -1,0 +1,33 @@
+Title: A Blast from the Past: Hunting the lost "atwoodie.zip" and "thorpe2002.zip"
+
+Over a decade ago, there was an online hunt for two elusive but coveted RCT files. These files were created by John Wardley, a real-life ride engineer, who used RCT1 Vanilla to work on actual ride designs. They were originally posted to John Wardley's website, but his site has long-since changed. The page mentioning the files is on the Internet Archive Wayback Machine, but the downloads are long-since missing.
+
+There have been two previous reddit threads about this, inactive for over a decade. (Links are at the bottom). The consensus was that the files may have been found with different names, but nobody knows for sure as the exact password-protected files with the exact names "atwoodie.zip" and "thorpe2002.zip" have not been found. There was a mysterious floppy disk being talked about, but it appears to either not be found, or not be confirmed as containing the prized files.
+
+I, like so many others at the time, were intrigued by the search. So, I did some digging and found that the RCT community found a directory of 6 saved scenarios from the RCT1 days that have filenames and contents that have been rumored to contain the lost files, but with different names. One person in the previous reddit post claims that atwoodie.zip may be Alton Ugland Woodie based on a file shared with him in the past.
+
+The directory of files is on an old-time file-sharing server. As many of these have died off due to legal reasons, this one still hangs on, but its days may be numbered. I hereby make this directory available to all the RCT community on a modern server (github), along with pictures of the parks it contains. I also include saved track designs and an Arid Heights scenario containing all of the main roller coasters. These files require OpenRCT2, as in the past they required the Drexler patch, which does not work on many modern versions of RCT1 Vanilla and current windows OS.
+
+I invite comments, insights, links to files that you have that may help solve this mystery, and anything else you feel will contribute to this discussion.
+
+Link to my download of John Wardley's Scenarios on Github.
+[[[See r/rct reddit post for this link. As this file is packed into the archive before posting, there is no way to include the link here.]]]
+(click on "view raw" to download the file).
+This download includes:
+1.) The "mystery" scenario files created by John Wardley
+2.) The screenshots of these parks
+3.) Track designs saved in OpenRCT2
+4.) Arid Heights save file with all roller coasters in one park. No scenery and other rides, just the coasters.
+
+-- Please download, save, and preserve this file! I am creating this post because the only places these park files are available is on free file-sharing sites, known to get shut down, be packed with ads, and laden with unwanted download links --
+
+Links:
+First discussion about mystery files: https://www.reddit.com/r/rct/comments/ij6zh/the_two_files_im_looking_for_still/
+Second discussion about mystery files:  https://www.reddit.com/r/rct/comments/3sdm8b/update_the_lost_files_thorpe2002zip_and/
+Where I found the files in my download mentioned on Reddit: https://www.reddit.com/r/rct/comments/26jpb6/wanted_a_hypertrustworthy_member_of_the_rct/
+(look for links in the post. I am reluctant to directly post outside links to free-for-all servers I do not control)
+A discussion on neDesigns about this topic: https://www.nedesigns.com/topic/28920/announcement-regarding-long-lost-rct-files/?p=640028
+
+Enough ado, let's get going!!
+
+
